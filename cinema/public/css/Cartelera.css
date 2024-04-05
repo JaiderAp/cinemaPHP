@@ -1,0 +1,29 @@
+
+/* Estilos para el body en modo oscuro */
+body {
+    font-family: Arial, sans-serif;
+    background-color: whitesmoke; /* Color de fondo oscuro */
+}
+
+.titulo-peliculas {
+    color: #000000; /* Cambia el color del texto a blanco */
+}
+/* Estilos para el navbar */
+.navbar {
+    background-color: #022164; /* Color de fondo del navbar */
+}
+
+/* Estilos para el botón de búsqueda personalizado */
+.custom-btn {
+    background-color: #EC8100;
+    border-color: #EC8100;
+    color: #fff;
+}
+
+/* Estilos adicionales para el hover del botón */
+.custom-btn:hover {
+    background-color: #fc8d0f; /* Cambia el color al pasar el cursor */
+    border-color: #fc8d0f;
+    color: #fff;
+}
+
